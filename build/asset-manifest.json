@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef8b7c5a.css",
+    "main.js": "/static/js/main.add52613.js",
+    "static/js/453.6bf921a5.chunk.js": "/static/js/453.6bf921a5.chunk.js",
+    "static/media/NunitoSans-Regular.ttf": "/static/media/NunitoSans-Regular.1f11a66a1136b96b32ad.ttf",
+    "static/media/hero-bg.jpg": "/static/media/hero-bg.b8e12f2e72b502a5488a.jpg",
+    "static/media/legumes.jpg": "/static/media/legumes.f9cd00cae747ce16b0ee.jpg",
+    "static/media/seo.jpg": "/static/media/seo.6bcd3f1167b406ea1f61.jpg",
+    "static/media/mozaique.png": "/static/media/mozaique.db18a54f1cf2638b1b1f.png",
+    "static/media/screens.jpg": "/static/media/screens.0a86655b7e4e2f075a26.jpg",
+    "static/media/japonnais.jpg": "/static/media/japonnais.12050b46a3cca523c6c9.jpg",
+    "static/media/coder.jpg": "/static/media/coder.e936b864e20943704d2a.jpg",
+    "static/media/banner.jpg": "/static/media/banner.55f7c897ddbeb816abb9.jpg",
+    "static/media/croissance.jpg": "/static/media/croissance.b4a6811ba7f3f68fd799.jpg",
+    "static/media/google.jpg": "/static/media/google.9c0e16d300682c8ef8e4.jpg",
+    "static/media/zen.jpg": "/static/media/zen.f6f025ed9a6d4d00b431.jpg",
+    "static/media/about.jpg": "/static/media/about.1ab69fc56327f2a1dc07.jpg",
+    "index.html": "/index.html",
+    "main.ef8b7c5a.css.map": "/static/css/main.ef8b7c5a.css.map",
+    "main.add52613.js.map": "/static/js/main.add52613.js.map",
+    "453.6bf921a5.chunk.js.map": "/static/js/453.6bf921a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef8b7c5a.css",
+    "static/js/main.add52613.js"
+  ]
+}
